@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "rootDir": "./src",
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+  },
+  "include": [
+    "src"
+  ]
+}
